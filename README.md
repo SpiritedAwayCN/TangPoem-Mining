@@ -1,7 +1,5 @@
 # 文本检索作业 - 项目报告
 
-石淳安	1800011607
-
 [TOC]
 
 ![](pics/demo0.png)
@@ -26,7 +24,7 @@ $ pip install dearpygui
 ### 目录结构
 
 ```
-TextHomework-1800011607-石淳安/
+TangPoem-Mining/
 ├── data/
 │   ├── poem_v2.xlsx				唐诗诗歌数据集文件
 │   ├── wordlist_v2.xlsx			词表文件
